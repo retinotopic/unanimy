@@ -1,0 +1,12 @@
+C:\CodeRelated\vscode\projects\rust\unanimy\unanimy\target\debug\deps\async_trait-95aa231f21b5be08.dll: C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\lib.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\args.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\bound.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\expand.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\lifetime.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\parse.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\receiver.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\verbatim.rs
+
+C:\CodeRelated\vscode\projects\rust\unanimy\unanimy\target\debug\deps\async_trait-95aa231f21b5be08.d: C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\lib.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\args.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\bound.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\expand.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\lifetime.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\parse.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\receiver.rs C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\verbatim.rs
+
+C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\lib.rs:
+C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\args.rs:
+C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\bound.rs:
+C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\expand.rs:
+C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\lifetime.rs:
+C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\parse.rs:
+C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\receiver.rs:
+C:\Users\bulat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.77\src\verbatim.rs:
